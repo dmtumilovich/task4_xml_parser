@@ -1,4 +1,4 @@
-package by.epam.task4.xml_parser;
+package by.epam.task4.xml_parser.entity;
 
 import java.util.HashMap;
 import java.util.Iterator;
